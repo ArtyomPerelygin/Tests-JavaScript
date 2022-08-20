@@ -1,0 +1,9 @@
+function functionWithArgs1(a, b) {
+  console.log(a + b);
+}
+functionWithArgs1(1,2);
+
+function functionWithArgs(a, b) {
+  console.log(a + b);
+}
+functionWithArgs(9,7);
